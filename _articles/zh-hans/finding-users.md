@@ -40,9 +40,9 @@ redirect_from: /zh-cn/finding-users/
 
 通过引导他们到一个唯一的地址来帮助人们发现和记住你的项目。
 
-**要有一个推广的主阵地。**一个Twitter账号，Github链接，或者IRC频道是引导人们查看你的项目的一个简单方式。这些方式也给你日益增长的社区一个讨论的好地方。
+**要有一个推广的主阵地。**一个Twitter账号，GitHub链接，或者IRC频道是引导人们查看你的项目的一个简单方式。这些方式也给你日益增长的社区一个讨论的好地方。
 
-如果你目前还不想给你的项目搞这么多乱七八糟的东西，只要在有机会的时候推广你的Twitter账户和Github账户即可。举个例子，如果你在某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
+如果你目前还不想给你的项目搞这么多乱七八糟的东西，只要在有机会的时候推广你的Twitter账户和GitHub账户即可。举个例子，如果你在某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
@@ -108,7 +108,7 @@ redirect_from: /zh-cn/finding-users/
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  当你开始写你的演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更更好。
+  当你开始写你的演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更好。
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
@@ -143,14 +143,6 @@ redirect_from: /zh-cn/finding-users/
 种一棵树的最好时间是十年前，其次是现在。所以任何时候开始建立你的声望都不晚。即使是你早就已经建立了自己的项目，也还是要继续找办法帮助别人。
 
 建立用户群没有一蹴而就的方法。获取别人的信任和尊重需要时间，同样，建立声望的过程也永远不会停止。
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS公开第一个版本的时候是在2011年初。我也就是用了一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。到2014年它已经广为人知的时候，我才开始做关于它的演讲。
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## 保持下去!
 

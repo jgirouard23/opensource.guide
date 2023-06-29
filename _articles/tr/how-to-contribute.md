@@ -3,13 +3,6 @@ lang: tr
 title: Açık Kaynağa Nasıl Katkıda Bulunulur
 description: Açık kaynağa katkıda bulunmak ister misiniz? İlk defa yapacaklar ve tecrübeliler için katkı yapma rehberi.
 class: contribute
-toc:
-  why-contribute-to-open-source: Açık kaynağa neden katkıda bulunmalıyım?
-  what-it-means-to-contribute: Katkıda bulunmak ne demektir?
-  orienting-yourself-to-a-new-project: Kendinizi yeni bir projeye yönlendirmek
-  finding-a-project-to-contribute-to: Katkıda bulunacak bir proje bulma
-  how-to-submit-a-contribution: Nasıl katkı yapılır?
-  what-happens-after-you-submit-a-contribution: Bir katkı gönderdikten sonra ne olur?
 order: 1
 image: "/assets/images/cards/contribute.png"
 related:
@@ -20,7 +13,7 @@ related:
 ## Açık kaynağa neden katkıda bulunmalıyım?
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> 
   \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmanın projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
   <p markdown="1" class="pquote-credit">
 - @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://www.errietta.me/blog/open-source/)
@@ -78,14 +71,6 @@ Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak ka
 </aside>
 
 Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve diğer topluluk üyeleriyle tanışmak için harika bir yoldur. Bu ilişkileri kurmak size projenin diğer bölümlerinde de çalışma fırsatı verecektir.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  İlk önce 17 Haziran 2002 tarihinde düzeltme yamamı e-postayla gönderdiğimde Python geliştirme ekibine (aka python-dev) ulaştım. Hızlı bir şekilde hatayı yakaladım ve grubun e-posta özetlerini iyileştirmeye başladım. Bir konu hakkında net bilgi almak için bana büyük bir bahane verdiler, ama daha kritik olarak, birinin düzeltilmesi gereken bir şeyi işaret ettiğini fark ettim.
-  <p markdown="1" class="pquote-credit">
-- @brettcannon, ["Geliştirme Hikayeleri"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Etkinlik planlamayı sever misiniz?
 
@@ -159,7 +144,7 @@ Bir yazılım geliştiricisi olsanız bile, bir dokümantasyon projesi üzerinde
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz.
   <p markdown="1" class="pquote-credit">
-- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+- @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/) 
   </p>
 </aside>
 
@@ -204,7 +189,7 @@ Son olarak, açık kaynak projeler tartışmaları yönetmek için aşağıdaki 
 
 Açık kaynak projelerin nasıl çalıştığını çözdüğünüze göre, katkıda bulunacak bir proje bulma zamanı!
 
-Daha önce hiç bir açık kaynak projeye katkıda bulunmadıysanız, _"Ülkenizin sizin için neler yapabileceğini değil - ülkeniz için neler yapabileceğinizi sorun"_ diyen ABD Başkanı John F. Kennedy'yi  örnek alın.
+Daha önce hiç bir açık kaynak projeye katkıda bulunmadıysanız, _"Ülkenizin sizin için neler yapabileceğini değil, ülkeniz için neler yapabileceğinizi sorun"_ diyen ABD Başkanı John F. Kennedy'yi  örnek alın.
 
 Açık kaynağa katkıda bulunmak, farklı projelerde her seviyede gerçekleşir. İlk katkınızın tam olarak ne olacağını veya nasıl görüneceğini düşünmeniz gerekmez.
 
@@ -230,9 +215,9 @@ Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aş
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
-### Katkıda bulunmadan önce üzerinden geçilebilcek bir kontrol listesi
+### Katkıda bulunmadan önce üzerinden geçilebilecek bir kontrol listesi
 
 Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kabul etmeye uygun olduğundan emin olmak için hızlı bir tarama yapın. Aksi takdirde, sıkı çalışmanız asla bir yanıt alamayabilirsiniz.
 
@@ -243,7 +228,7 @@ Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kab
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.
+    Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.
   </label>
 </div>
 
@@ -254,21 +239,21 @@ Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüpha
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-  En son kod değişikliği ne zaman yapılmış?
+    En son kod değişikliği ne zaman yapılmış?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-  Projenin kaç katılımcısı var?
-</label>
+    Projenin kaç katılımcısı var?
+  </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)
+    İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)
   </label>
 </div>
 
@@ -277,35 +262,35 @@ Ardından, projenin sorun listesine bakın.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-  Kaç tane açık sorun var?
+    Kaç tane açık sorun var?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-  Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?
+    Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-  Sorunların altında aktif tartışma var mı?
+    Sorunların altında aktif tartışma var mı?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Sorunlar yeni mi?
+    Sorunlar yeni mi?
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-  Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)
+    Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)
   </label>
 </div>
 
@@ -314,14 +299,14 @@ Ardından, projenin sorun listesine bakın.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-  Kaç tane açık PR var?
+    Kaç tane açık PR var?
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-  Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?
+    Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?
   </label>
 </div>
 
@@ -386,7 +371,7 @@ Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olac
   </p>
 </aside>
 
-## Katkı nasıl gönderilir?
+## Nasıl katkı yapılır?
 
 Hoşunuza giden bir proje buldunuz ve katkıda bulunmaya hazırsınız. En sonunda! İşte katkınızı doğru şekilde yapmanın yolu.
 
@@ -408,13 +393,13 @@ Bir sorunu açmadan veya bir PR oluşturmadan ya da sohbette bir soru sormadan �
 
 > 😇 _"Y yaptığımda X olmuyor"_
 >
-> X _"X çalışmıyor! Lütfen düzeltin."_
+> 😢 _"X çalışmıyor! Lütfen düzeltin."_
 
 **Ödevini önceden yap.** Bir şeyleri bilmemek normaldir, ama denediğini göster. Yardım istemeden önce, bir projenin README'sini, belgelerini, sorun listesini (açık veya kapalı), e-posta listesini kontrol ettiğinizden ve bir cevap için interneti aradığınızdan emin olun. Öğrenmeye çalıştığını gösterdiğin zaman insanlar takdir edeceklerdir.
 
-> X _"X'in nasıl uygulanacağından emin değilim. Yardım belgelerini kontrol ettim ve herhangi bir yerde bulamadım."_
+> 😇 _"X'in nasıl uygulanacağından emin değilim. Yardım belgelerini kontrol ettim ve herhangi bir yerde bulamadım."_
 >
-> 😢 _"X nasıl yapılır?"_
+> 😢 <em>"X nasıl yapılır?"</em>
 
 **İstekleri kısa ve öz tutun.** Bir e-posta göndermek gibi, ne kadar basit veya yararlı olursa olsun, her katkı başkasının incelemesini gerektirir. Birçok projenin, yardım için uygunların yapabileceklerinden daha fazla gelen talebi olur. Basit olun. Birinin size yardım edebilme şansını artıracaksınız.
 
@@ -506,7 +491,7 @@ Katkınızı gönderdikten sonra, aşağıdakilerden biri olacaktır:
 
 ### 😭 Hiç bir cevap almazsınız.
 
-Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katkıda-bulunmadan-önce-üzerinden-geçilebilcek-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
+Umarım bir katkı yapmadan önce [projeyi faaliyet belirtileri açısından kontrol](#katk%C4%B1da-bulunmadan-%C3%B6nce-%C3%BCzerinden-ge%C3%A7ilebilecek-bir-kontrol-listesi) ettiniz. Ancak aktif bir projede bile, katkınızın yanıt alamaması olası.
 
 Bir haftadan uzun bir süredir yanıt alamadıysanız, aynı konuya kibarca yorum yazmak, birinden inceleme istemek doğru olur. Katkınızı gözden geçirecek doğru kişinin adını biliyorsanız, bunları o konuya ekleyebilirsiniz (@).
 
